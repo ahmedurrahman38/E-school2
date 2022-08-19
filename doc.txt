@@ -1,0 +1,30 @@
+
+
+
+
+common
+    button hover,text
+       width-hight
+
+   font f pop
+16px
+400
+
+
+
+
+color
+green #217C58;
+black#000000;
+orange #FD511A;
+white #FFFFFF;
+
+font
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+banner
+
+xxl-xl-lg         md        sm-col
+
+h1 48-44          35
